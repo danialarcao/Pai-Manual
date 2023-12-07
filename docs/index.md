@@ -1,17 +1,28 @@
-# Começando
+# Pedido de apoio à investigação - PAI <br> 
 
-Vá para: [página 2](pagina2.md).
+<span style="background-color: #54b961; border-radius: 5px; padding: 6px; color: #FFFFFF ">Módulo Demandante</span>
+<!--><div class="justificado"><!-->
+A **SPAI** compõe a estrutura do Gabinete do Procurador-Geral de Justiça Militar e tem como principal atribuição prestar assessoramento a todos os Membros do **MPM** em investigações que envolvam, em especial, análises técnicas de dados oriundos de afastamentos de sigilo, pesquisas de dados e análises de procedimentos de contratações públicas no âmbito das Organizações Militares.  <br>
 
-## Comandos
+Para acionar a **SPAI**, basta formalizar um Pedido de Apoio à Investigação – **PAI**.  <br>
 
-* `mkdocs new [dir-name]` - Cria um novo projeto.
-* `mkdocs serve` - Inicia o carregamento local do servidor de aplicação.
-* `mkdocs build` - Constrói o build do projeto.
-* `mkdocs -h` - Mostra mensagem de ajuda e sai.
+O **PAI** é um sistema de pedido eletrônico disponibilizado aos membros do **Mistério Público Militar**, bem como aos seus assessores, quando delegados. Trata-se, portanto, do único meio de se solicitar o apoio da **SPAI** nas investigações em curso.  <br>
 
-## Leiaute do projeto
+Além disso, a ferramenta se mostra indispensável na gestão de casos e na produção de relatórios gerencias.  <br>
 
-    mkdocs.yml    # Arquivo de configuração.
-    docs/
-        index.md  # Código da página inicial.
-        ...       # Outras páginas do tipo markdown, imagens e outros arquivos.
+## Serviços disponibilizados
+<ul class="seletor">
+    <li> Afastamento de sigilo bancário - SIMBA </li>
+    <li> Afastamento de sigilo telefônico - SITTEL </li>
+    <li> Análise de dados bancários </li>
+    <li> Análise de dados fiscais </li>  
+    <li> Análise de dados telefônicos </li> 
+    <li> Pesquisa de processos licitatórios </li> 
+    <li> Análise de processos licitatórios </li>
+    <li> Pesquisa de dados cadastrais (pessoa física e jurídica) </li>
+    <li> Pesquisa de dados orçamentários e financeiros </li>
+</ul><br>
+
+O **PAI** encontra-se atualmente em sua versão XXXX, disponibilizando sete módulos para acesso: Administrador, Coordenador, Demandante, Analista, Quarentenista, Pesquisador e Servidor. Cada módulo foi desenvolvido sob medida para cada grupo de usuários. De acordo com o perfil acessado, as funcionalidades apresentadas poderão ser distintas. **Este manual discorrerá sobre o Módulo Demandante do sistema PAI**.<br><br>
+
+<div>

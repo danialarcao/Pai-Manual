@@ -1,0 +1,36 @@
+.justificado {
+    text-align: justify;
+}
+.seletor {
+    line-height: 1;
+}
+.link-azul {
+    color: blue;
+}
+.passos::before {
+    content: attr(data-numero); /* Obtém o número do atributo data-numero */
+    background-color: #c9ebff; /* Cor de fundo */
+    color: #000000; /* Cor do texto */
+    padding: 6px 12px; /* Espaçamento interno */
+    border-radius: 4px ; /* Borda arredondada */
+    margin-right: 2px; /* Espaçamento à direita */
+    font-weight: bold;
+  }
+  .modulo::before {
+    content: attr(data-numero); /* Obtém o número do atributo data-numero */
+    background-color: #54b961; /* Cor de fundo */
+    color: #FFFFFF; /* Cor do texto */
+    padding: 6px 12px; /* Espaçamento interno */
+    border-radius: 4px ; /* Borda arredondada */
+    margin-right: 2px; /* Espaçamento à direita */
+    font-weight: bold;
+  }
+  .atencao::before {
+    content: attr(data-numero); /* Obtém o número do atributo data-numero */
+    background-color: rgb(245, 223, 26); /* Cor de fundo */
+    color: #000000; /* Cor do texto */
+    padding: 3px 11px; /* Espaçamento interno */
+    border-radius: 30px ; /* Borda arredondada */
+    margin-right: 2px; /* Espaçamento à direita */
+    font-weight: bold;
+  }
