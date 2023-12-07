@@ -1,5 +1,5 @@
 # Meus pedidos
-<!--><div class="justificado"><!-->
+
 Permite que o membro visualize todos os pedidos feitos até a data corrente. Inicialmente são mostrados apenas os pedidos em andamento, mas, caso o membro queira enxergar todos os pedidos já cadastrados, basta acionar o botão “Mostrar Pedidos Concluídos”, localizado no centro da página (Figura x). 
 
 ## Detalhes do pedido

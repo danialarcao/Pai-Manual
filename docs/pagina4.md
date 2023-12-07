@@ -19,3 +19,5 @@
 
 ![Login](img/DelegaçãoAutorização.png)<br>
 *Figura x - Delegação x Autorização*. <br><br>
+
+

@@ -1,5 +1,5 @@
 # Perfil / Logout
-
+<div class="justificado">
 É possível alternar o perfil de acesso clicando no botão localizado na aba esquerda da página, conforme imagem a seguir (Figura x):
 
 ![Login](img/Perfil.png)
@@ -9,3 +9,4 @@ Para fazer Logout no sistema PAI, basta clicar no botão <svg xmlns="http://www.
 
 ![Login](img/Logout.png)
 *Figura x - Sair*. <br><br>
+<div>
