@@ -38,7 +38,7 @@ Na formulação de um novo pedido, além do campo necessidades, há uma lista de
 ![Login](img/CadastroDeInvestigado.png)
 *Figura 10 - Cadastro de investigado(s)*. <br><br>
 
-<p style="text-align: justify;">O processo poderá ser repetido enquanto houver investigados a serem cadastrados. Todos os investigados serão incluídos em série na tabela<br><br> É possível, também, através da tabela, editar e excluir dados já cadastrados. O cadastramento de investigados também é aproveitado para outros serviços selecionados dentro da plataforma. </p>
+<p style="text-align: justify;">O processo poderá ser repetido enquanto houver investigados a serem cadastrados. Todos os investigados serão incluídos em série na tabela. <br><br> É possível, também, através da tabela, editar e excluir dados já cadastrados. O cadastramento de investigados também é aproveitado para outros serviços selecionados dentro da plataforma. </p>
 
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF"> Afastamento de Sigilio Bancário SIMBA </span>
 <p style="text-align: justify;"><strong> Caso seja solicitado o serviço “Afastamento de Sigilo Bancário Simba” </strong>, o sistema solicitará que o usuário preencha os campos referentes aos dados gerais do afastamento de sigilo bancário a ser requerido ao Juiz (Figura 11). </p>
