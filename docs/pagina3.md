@@ -39,14 +39,14 @@ Os possíveis status do pedido são:
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Histórico </span>
 
-<p style="text-align: justify;">Permite que os demandantes e os integrantes da SPAI acompanhem todas as alterações ocorridas no pedido e nos serviços requeridos, realizadas pelos membros ou por servidores da própria SPAI. Além disso, possibilita ao membro a inclusão de informações a qualquer tempo que julgue importante para o andamento do pedido e dos serviços requisitados. Ao cadastrar um novo histórico, por serviço requerido, a área responsável da SPAI será automaticamente notificada por e-mail sobre a inclusão de um novo registro de histórico. No entanto, nos casos em que já houve a conclusão ou o encerramento do pedido, o pedido deverá ser previamente reaberto. </p><br><br>
+<p style="text-align: justify;">Permite que os demandantes e os integrantes da SPAI acompanhem todas as alterações ocorridas no pedido e nos serviços requeridos, realizadas pelos membros ou por servidores da própria SPAI. Além disso, possibilita ao membro a inclusão de informações a qualquer tempo que julgue importante para o andamento do pedido e dos serviços requisitados. Ao cadastrar um novo histórico, por serviço requerido, a área responsável da SPAI será automaticamente notificada por e-mail sobre a inclusão de um novo registro de histórico. No entanto, nos casos em que já houve a conclusão ou o encerramento do pedido, o pedido deverá ser previamente reaberto. </p><br>
 
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Investigados </span>
-<p style="text-align: justify;">Permite visualizar, editar e excluir os investigados cadastrados no pedido e possibilita o cadastramento de novos investigados, tanto de “pessoa física” quanto de “pessoa jurídica”. </p><br><br>
+<p style="text-align: justify;">Permite visualizar, editar e excluir os investigados cadastrados no pedido e possibilita o cadastramento de novos investigados, tanto de “pessoa física” quanto de “pessoa jurídica”. </p><br>
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Anexos </span>
-<p style="text-align: justify;">Permite anexar arquivos no sistema. Funciona de maneira similar ao recurso “Anexar Arquivo’ da maioria das ferramentas de e-mail. O sistema suporta anexos de arquivos de até 25MB. </p><br>
+<p style="text-align: justify;">Permite anexar arquivos no sistema. Funciona de maneira similar ao recurso “Anexar Arquivo’ da maioria das ferramentas de e-mail. O sistema suporta anexos de arquivos de até 25MB. </p>
     
 <p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Após clicar no botão “Anexar” irá aparecer uma janela pop-up (Figura x) na qual será possível localizar o arquivo em seu computador. Selecione o tipo de anexo (preenchimento obrigatório), a data de elaboração e insira uma observação (preenchimento não obrigatório) para o documento. Por fim, clique em “Enviar anexos”. </p>
 
@@ -64,14 +64,14 @@ Autorizações: </strong>utilizado para que o membro titular do pedido possa aut
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> SIMBA </span>
 <strong>Sistema de Investigação de Movimentações Bancárias.</strong>
 
-<p style="text-align: justify;">Permite anexar "Extensão de Quebra", baixar minuta, visualizar a relação de investigados e a situação de suas respectivas contas em relação às transmissões. Também é possível verificar as contas bancárias, na tabela <u>"Bancos"</u> e os <u>"Relatórios e atendimentos recebidos"</u></p>. 
+<p style="text-align: justify;">Permite anexar "Extensão de Quebra", baixar minuta, visualizar a relação de investigados e a situação de suas respectivas contas em relação às transmissões. Também é possível verificar as contas bancárias, na tabela <u>"Bancos"</u> e os <u>"Relatórios e atendimentos recebidos."</u></p> 
 
 <p class="atencao" data-numero="!"><strong> Bancos (Figura 22): </strong></p>
 
 ![Login](img/AbaBancos.png)
 *Figura 22 - Menu anexos*. <br>
 
-<p style="text-align: justify;">A partir dessa janela, clicando em "Detalhes" poderão ser obtidas outras informações a respeito das transmissões como, por exemplo, dados do investigado, números de contas, agências e bancos, nível de identificação da origem e destino, períodos etc. (Figura 23)</p>.  
+<p style="text-align: justify;">A partir dessa janela, clicando em "Detalhes" poderão ser obtidas outras informações a respeito das transmissões como, por exemplo, dados do investigado, números de contas, agências e bancos, nível de identificação da origem e destino, períodos etc. (Figura 23)</p>  
 
 ![Login](img/ContasRelacionadas.png)
 *Figura 23 - Aba "Contas Relacionadas"*. <br>
@@ -132,13 +132,13 @@ Também é possível cadastrar alvos (Figura 25). Os tipos de requisição dispo
 ![Login](img/CadastroDeAlvo.png)<br>
 *Figura 25 - Cadastrar Alvo.* <br><br>
 
-<p style="text-align: justify;">Por fim, na última tabela, é possível acompanhar o andamento da investigação dos alvos, baixar arquivo zip com os resultados recebidos e fazer download da "Certidão Sittel" (Figura 26). 
+<p style="text-align: justify;">Por fim, na última tabela, é possível acompanhar o andamento da investigação dos alvos, baixar arquivo zip com os resultados recebidos e fazer download da "Certidão Sittel" (Figura 26). <br>
 
 ![Login](img/SolicitacoesOperadoras.png)<br>
 *Figura 26 - Status das solicitações enviadas para as operadoras.* <br><br>
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> SIFISCO </span>
-<strong>Sistema de Investigação Fiscal.</strong>
+<strong>Sistema de Investigação Fiscal.</strong><br>
 
 <p style="text-align: justify;">Na Aba SIFISCO (Figura 27) é possível acompanhar o andamento do pedido, anexar arquivos de dados fiscais, baixar minuta e cadastrar investigados (pessoa física ou pessoa jurídica). </p>
 
