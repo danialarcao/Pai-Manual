@@ -48,7 +48,7 @@ Os possíveis status do pedido são:
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Anexos </span>
 <p style="text-align: justify;">Permite anexar arquivos no sistema. Funciona de maneira similar ao recurso “Anexar Arquivo’ da maioria das ferramentas de e-mail. O sistema suporta anexos de arquivos de até 25MB. </p>
     
-<p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Após clicar no botão “Anexar” irá aparecer uma janela pop-up (Figura x) na qual será possível localizar o arquivo em seu computador. Selecione o tipo de anexo (preenchimento obrigatório), a data de elaboração e insira uma observação (preenchimento não obrigatório) para o documento. Por fim, clique em “Enviar anexos”. </p>
+<p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Após clicar no botão “Anexar” irá aparecer uma janela pop-up (Figura 20) na qual será possível localizar o arquivo em seu computador. Selecione o tipo de anexo (preenchimento obrigatório), a data de elaboração e insira uma observação (preenchimento não obrigatório) para o documento. Por fim, clique em “Enviar anexos”. </p>
 
 ![Login](img/MenuAnexos.png)
 *Figura 20 - Menu anexos* <br><br>
