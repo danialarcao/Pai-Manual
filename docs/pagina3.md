@@ -132,12 +132,13 @@ Também é possível cadastrar alvos (Figura 25). Os tipos de requisição dispo
 ![Login](img/CadastroDeAlvo.png)<br>
 *Figura 25 - Cadastrar Alvo.* <br><br>
 
-<p style="text-align: justify;">Por fim, na última tabela, é possível acompanhar o andamento da investigação dos alvos, baixar arquivo zip com os resultados recebidos e fazer download da "Certidão Sittel" (Figura 26). <br>
+<p style="text-align: justify;">Por fim, na última tabela, é possível acompanhar o andamento da investigação dos alvos, baixar arquivo zip com os resultados recebidos e fazer download da "Certidão Sittel" (Figura 26). </p><br>
 
 ![Login](img/SolicitacoesOperadoras.png)<br>
 *Figura 26 - Status das solicitações enviadas para as operadoras.* <br><br>
 
 ### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> SIFISCO </span><br>
+
 <strong>Sistema de Investigação Fiscal.</strong><br>
 
 <p style="text-align: justify;">Na Aba SIFISCO (Figura 27) é possível acompanhar o andamento do pedido, anexar arquivos de dados fiscais, baixar minuta e cadastrar investigados (pessoa física ou pessoa jurídica). </p><br>
