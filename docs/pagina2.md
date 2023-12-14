@@ -6,7 +6,7 @@
 ![Login](img/FormularioNovoPedido.png)
 *Figura 5 - Cadastro do Pedido*. <br><br>
 
-<p style="text-align: justify;">Preencha o campo nome, selecione qual a classe de feitos deste caso e digite o número do procedimento. Caso existam pedidos com o mesmo número de procedimento, o PAI apresentará uma tabela listando estes pedidos (Figura 6) e seus respectivos detalhes. <br><br> A partir disto, caso algum dentre eles possua vínculo com o pedido que está sendo sendo cadastrado, selecione-o, clicando sobre a linha. Essa indicação tornará o trabalho de análise mais célere. <br><br> Por fim, o campo "Origem" do pedido é automaticamente selecionado pelo PAI, de acordo com a lotação do membro que está cadastrando o novo pedido. Porém, caso seja de interesse do membro, é possível alterar este campo de acordo com a lotação desejada. </p>
+<p style="text-align: justify;">Preencha o campo nome, selecione qual a classe de feitos deste caso e digite o número do procedimento. Caso existam pedidos com o mesmo número de procedimento, o PAI apresentará uma tabela listando estes pedidos (Figura 6) e seus respectivos detalhes. <br><br> A partir disto, caso algum dentre eles possua vínculo com o pedido que está sendo cadastrado, selecione-o, clicando sobre a linha. Essa indicação tornará o trabalho de análise mais célere. <br><br> Por fim, o campo "Origem" do pedido é automaticamente selecionado pelo PAI, de acordo com a lotação do membro que está cadastrando o novo pedido. Porém, caso seja de interesse, é possível alterar este campo de acordo com a lotação desejada. </p>
 
 ![Login](img/PedidoVínculo.png)
 *Figura 6 - Pedido com mesmo número de procedimento*. <br><br>
@@ -24,7 +24,7 @@
 ![Login](img/Necessidades.png)
 *Figura 8 - Necessidades*. <br><br>
 
-## Assuntos e Serviços
+## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Assuntos e Serviços </span>
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">3</span> Em seguida, na página "Novo pedido", selecione os assuntos e os serviços desejados (Figura 9) clicando sobre os ícones <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="20" height="20" style="vertical-align: middle;" ><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M384 128c70.7 0 128 57.3 128 128s-57.3 128-128 128H192c-70.7 0-128-57.3-128-128s57.3-128 128-128H384zM576 256c0-106-86-192-192-192H192C86 64 0 150 0 256S86 448 192 448H384c106 0 192-86 192-192zM192 352a96 96 0 1 0 0-192 96 96 0 1 0 0 192z" fill="currentColor" d="m21.68 17.65l-7-14a3 3 0 0 0-5.36 0l-7 14a3 3 0 0 0 3.9 4.08l5.37-2.4a1.06 1.06 0 0 1 .82 0l5.37 2.4a3 3 0 0 0 3.9-4.08Zm-2 2a1 1 0 0 1-1.13.22l-5.37-2.39a3 3 0 0 0-2.44 0L5.41 19.9a1 1 0 0 1-1.3-1.35l7-14a1 1 0 0 1 1.78 0l7 14a1 1 0 0 1-.17 1.13Z"/></svg>. Ao finalizar, clique em "Avançar". </p>
 
 ![Login](img/SelecionarAssuntoServiços.png)
@@ -38,7 +38,7 @@ Na formulação de um novo pedido, além do campo necessidades, há uma lista de
 ![Login](img/CadastroDeInvestigado.png)
 *Figura 10 - Cadastro de investigado(s)*. <br><br>
 
-<p style="text-align: justify;">O processo poderá ser repetido enquanto houver investigados a serem cadastrados. Todos os investigados serão incluídos em série na tabela. <br><br> É possível, também, através da tabela, editar e excluir dados já cadastrados. O cadastramento de investigados também é aproveitado para outros serviços selecionados dentro da plataforma. </p>
+<p style="text-align: justify;">O processo poderá ser repetido enquanto houver investigados a serem cadastrados. Todos os investigados serão incluídos em série na tabela. <br><br> É possível, também, através da tabela, editar e excluir dados já cadastrados. O cadastramento de investigados também é aproveitado para outros serviços selecionados dentro da plataforma. </p><br>
 
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF"> Afastamento de Sigilio Bancário SIMBA </span>
 <p style="text-align: justify;"><strong> Caso seja solicitado o serviço “Afastamento de Sigilo Bancário Simba” </strong>, o sistema solicitará que o usuário preencha os campos referentes aos dados gerais do afastamento de sigilo bancário a ser requerido ao Juiz (Figura 11). </p>
@@ -50,6 +50,24 @@ Na formulação de um novo pedido, além do campo necessidades, há uma lista de
 ![Login](img/AfastamentoAnalise.png) <br>
 *Figura 12 - Cadastro Afastamento de Sigilo Bancário*. <br><br>
 
+<p style="text-align: justify;">Uma exigência do sistema para pedidos com o serviço de afastamento de sigilo é o <strong> download da minuta </strong>, passo este que é obrigatório para o prosseguimento do processo de cadastro por meio do botão “Baixar minuta”.</p>
+
+<p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> <strong>Não copie e cole a minuta!</strong> A ação de copiar e colar, comumente utilizada pelos usuários, pode gerar grandes transtornos ao trâmite do afastamento de sigilo bancário via SIMBA. Por exemplo, se o número do caso for incorretamente informado, irá causar uma série de problemas, como: <br><br>
+
+
+    - Os dados bancários transmitidos cairão em outro caso; <br>
+    - Contamina a prova; <br>
+    - Acaba por evidenciar dados de outro caso guardado por sigilo; <br>
+    - Impossibilita o controle dos dados que deverão ser transmitidos pelos Bancos, inviabilizando, por conseguinte, eventuais cobranças de mora; <br>
+    - Causa ruídos de comunicação entre a SPAI, o Judiciário, o BACEN e as instituições financeiras;  <br>
+    - Possibilita que as instituições financeiras aleguem o não recebimento de nenhuma determinação do Banco Central para transmitir eventuais dados pendentes. <br><br>
+
+Caso ocorra o envio do PQS ao Judiciário com um número de caso incorreto, assim que detectado o equívoco, será necessária a reiteração do pedido à autoridade judiciária. O Membro deverá refazer o pedido, gerar nova minuta (com novo número) e reiterar o pedido ao Juiz, sendo que esse trâmite poderá causar uma excessiva demora até a análise do caso. <br><br>
+
+Por fim, sugerimos que a minuta seja utilizada como anexo do PQS! 
+</p><br>
+
+
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Afastamento de sigilo telefônico - SITTEL </span>
 
 <p style="text-align: justify;">O SITTEL é um sistema de investigação de registros telefônico e telemático, tendo sido desenvolvido para recebimento e processamento de dados decorrentes de afastamento de sigilo de registros de telefone autorizado pela Justiça. <br><br> Pelo sistema, é possível transmitir as ordens judiciais e ofícios requisitórios (ordem extrajudicial) diretamente para as operadoras de telefonia, por meio tecnológico seguro. O SITTEL não realiza interceptação telefônica e nem afastamento do sigilo telemático. 
@@ -58,7 +76,7 @@ Na formulação de um novo pedido, além do campo necessidades, há uma lista de
 
  <ul>
     <li style="text-align: justify;"><strong>Pedido judicial:</strong> Pedido que depende da descisão judicial ser deferida pelo juíz. As respostas poderão conter as seguintes informações, dependendo do tipo de alvo solicitado: dados cadastrais, históricos de chamadas, histórico de chamadas (com dados de interlocutores), histórico de IMEI e histórico de conexões. Os tipos de alvos solicitados poderão ser: CPF/CNPJ, outro documento do assinante, terminal, IMEI. </li>
-    <li style="text-align: justify;"><strong> Pedido extrajudicial: </strong> Pedido em que o próprio demandante solicita e assina o pedido. Terá como resposta os dados cadastrais e os alvos solicitados poderão ser do tipo: CPF/CNPJ, outro documento do assinante, terminal, IMEI. </li><br>
+    <li style="text-align: justify;"><strong> Pedido extrajudicial: </strong> Pedido em que o próprio demandante solicita e assina a requisição. Terá como resposta os dados cadastrais e os alvos solicitados poderão ser do tipo: CPF/CNPJ, outro documento do assinante, terminal, IMEI. </li><br>
  </ul>
 
 ![Login](img/FormCadastroDoSittel.png)
@@ -71,22 +89,10 @@ Além disso, também é possível requerer informações adicionais de interlocu
 Uma exigência do sistema para pedidos com o serviço de afastamento de sigilo é o <strong> download da minuta </strong>, passo este que é obrigatório para o prosseguimento do processo de cadastro por meio do botão “Baixar minuta” (Figura 15). </p>
 
 ![Login](img/TipoDeRequisição.png)
-*Figura 14 - Moda de seleção de tipo de requisição*. <br><br>
+*Figura 14 - Modo de seleção de tipo de requisição*. <br><br>
 
 ![Login](img/BaixarMinuta.png)
 *Figura 15 - Baixar minuta*. <br><br>
-
-<p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> <strong>Não copie e cole a minuta!</strong> A ação de copiar e colar, comumente utilziada pelos usuários, pode gerar grandes transtornos ao trâmite do afastamento de sigilo bancário via SIMBA. Por exemplo, se o número do caso for incorretamente informado, irá causar uma série de problemas, como: <br><br>
-
-
-    - Os dados bancários transmitidos cairão em outro caso; <br>
-    - Contamina a prova; <br>
-    - Acaba por evidenciar dados de outro caso guardado por sigilo; <br>
-    - Impossibilita o controle dos dados que deverão ser transmitidos pelos Bancos, inviabilizando, por conseguinte, eventuais cobranças de mora; <br>
-    - Causa ruídos de comunicação entre a SPAI, o Judiciário, o BACEN e as instituições financeiras;  <br>
-    - Possibilita que as instituições financeiras aleguem o não recebimento de nenhuma determinação do Banco Central para transmitir eventuais dados pendentes. <br><br>
-
-Caso ocorra o envio do PQS ao Judiciário com um número de caso incorreto, assim que detectado o equívoco, será necessária a reiteração do pedido à autoridade judiciária. O Membro deverá refazer o pedido, gerar nova minuta (com novo número) e reiterar o pedido ao Juiz, sendo que esse trâmite poderá causar uma excessiva demora até a análise do caso. </p><br>
 
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">5</span> Por fim, é disponibilizada a página que possibilita a inclusão de arquivos (Upload) no pedido e o botão “Finalizar” para a conclusão do cadastro do novo pedido, conforme figura a seguir (Figura 16): </p>
 

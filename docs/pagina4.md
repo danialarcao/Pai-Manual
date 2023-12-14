@@ -15,9 +15,6 @@
 ![Login](img/BotãoDeAvocação.png)<br>
 *Figura 30 - Menu botão de avocação*. <br><br>
 
-## Diferença entre delegação e autorização
 
-![Login](img/DelegaçãoAutorização.png)<br>
-*Figura 31 - Delegação x Autorização*. <br><br>
 
 

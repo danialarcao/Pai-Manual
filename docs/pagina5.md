@@ -11,3 +11,8 @@
 
 ![Login](img/BotaoDeDelegacao.png)
 *Figura 33 - Delegar pedido.* <br><br>
+
+## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Diferença entre delegação e autorização</span>
+
+![Login](img/DelegaçãoAutorização.png)<br>
+*Figura 31 - Delegação x Autorização*. <br><br>

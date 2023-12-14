@@ -1,6 +1,6 @@
 # Perfil / Logout
 
-<p style="text-align: justify;">É possível alternar o perfil de acesso clicando no botão localizado na aba esquerda da página, conforme imagem a seguir (Figura 35): </p>
+<p style="text-align: justify;">Caso o usuário possua mais de um perfil cadastrado no sistema, é possível alternar o perfil de acesso clicando no botão localizado na aba esquerda da página, conforme imagem a seguir (Figura 35): </p>
 
 ![Login](img/Perfil.png)
 *Figura 35 - Alterar perfil de acesso*. <br><br>

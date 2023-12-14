@@ -2,13 +2,13 @@
 
 <p style="text-align: justify;">Permite que o membro visualize todos os pedidos feitos até a data corrente. Inicialmente são mostrados apenas os pedidos em andamento, mas, caso o membro queira enxergar todos os pedidos já cadastrados, basta acionar o botão “Mostrar Pedidos Concluídos”, localizado no centro da página (Figura 17). </p>
 
-## Detalhes do pedido
+## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Detalhes do pedido </span>
 Para navegar pelos detalhes do pedido, clique no botão <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="m21.68 17.65l-7-14a3 3 0 0 0-5.36 0l-7 14a3 3 0 0 0 3.9 4.08l5.37-2.4a1.06 1.06 0 0 1 .82 0l5.37 2.4a3 3 0 0 0 3.9-4.08Zm-2 2a1 1 0 0 1-1.13.22l-5.37-2.39a3 3 0 0 0-2.44 0L5.41 19.9a1 1 0 0 1-1.3-1.35l7-14a1 1 0 0 1 1.78 0l7 14a1 1 0 0 1-.17 1.13Z"/></svg> apresentado na tela, conforme mostrado na figura a seguir: (Figura 17)
 
 ![Login](img/DetalhesDoPedido.jpeg)
 *Figura 17 - Acessar os detalhes dos pedidos*. <br><br>
 
-## Status do pedido
+## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Status do pedido</span>
 Os possíveis status do pedido são: 
 <ul>
 <li style="text-align: justify;"><strong>Aguardando Despacho: </strong>Pedidos que estão aguardando despacho do coordenador, seja na fase de admissibilidade ou em outra fase que requeira seu posicionamento. Por exemplo, quando um atendimento bancário foi concluído e aguarda a distribuição ao analista responsável, ou ainda quando um analista conclui a análise e o pedido aguarda ser concluído.</li>
@@ -20,7 +20,7 @@ Os possíveis status do pedido são:
 
 </ul>
 
-## Ações em detalhes do pedido
+## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Ações em detalhes do pedido</span>
 
 ![Login](img/AçõesDetalhesDoPedido.png)<br>
 *Figura 18 - Ações em detalhes do pedido*. <br>

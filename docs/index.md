@@ -10,7 +10,8 @@ O **PAI** é um sistema de pedido eletrônico disponibilizado aos membros do **M
 
 Além disso, a ferramenta se mostra indispensável na gestão de casos e na produção de relatórios gerencias. </p>
 
-## Serviços disponibilizados
+### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Serviços disponibilizados</span>
+
 <ul class="seletor">
     <li> Afastamento de sigilo bancário - SIMBA </li>
     <li> Afastamento de sigilo telefônico - SITTEL </li>
