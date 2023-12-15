@@ -2,11 +2,11 @@
 
 <span style="background-color: #54b961; border-radius: 5px; padding: 6px; color: #FFFFFF ">Módulo Demandante</span>
 <p style="text-align: justify;">
-A <strong>SPAI</strong> compõe a estrutura do Gabinete do Procurador-Geral de Justiça Militar e tem como principal atribuição prestar assessoramento a todos os Membros do <strong>MPM</strong> em investigações que envolvam, em especial, análises técnicas de dados oriundos de afastamentos de sigilo, pesquisas de dados e análises de procedimentos de contratações públicas no âmbito das Organizações Militares. </p>
+A <strong>SPAI</strong> compõe a estrutura do Gabinete da Procuradoria-Geral de Justiça Militar e tem como principal atribuição prestar assessoramento a todos os Membros do <strong>MPM</strong> em investigações que envolvam, em especial, análises técnicas de dados oriundos de afastamentos de sigilo, pesquisas de dados e análises de procedimentos de contratações públicas no âmbito das Organizações Militares. <br><br>
 
-Para acionar a **SPAI**, basta formalizar um Pedido de Apoio à Investigação – **PAI**.  <br>
+Para acionar a <strong>SPAI</strong>, basta formalizar um Pedido de Apoio à Investigação – <strong>PAI</strong>.  <br><br>
 
-O **PAI** é um sistema de pedido eletrônico disponibilizado aos membros do **Mistério Público Militar**, bem como aos seus assessores, quando delegados. Trata-se, portanto, do único meio de se solicitar o apoio da **SPAI** nas investigações em curso.  <br>
+O <strong>PAI</strong> é um sistema de pedido eletrônico disponibilizado aos membros do <strong>Mistério Público Militar</strong>, bem como aos seus assessores, quando delegados. Trata-se, portanto, do único meio de se solicitar o apoio da <strong>SPAI</strong> nas investigações em curso.  <br><br>
 
 Além disso, a ferramenta se mostra indispensável na gestão de casos e na produção de relatórios gerencias. </p>
 

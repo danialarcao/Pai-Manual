@@ -8,18 +8,6 @@ Para navegar pelos detalhes do pedido, clique no botão <svg xmlns="http://www.w
 ![Login](img/DetalhesDoPedido.jpeg)
 *Figura 17 - Acessar os detalhes dos pedidos*. <br><br>
 
-## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Status do pedido</span>
-Os possíveis status do pedido são: 
-<ul>
-<li style="text-align: justify;"><strong>Aguardando Despacho: </strong>Pedidos que estão aguardando despacho do coordenador, seja na fase de admissibilidade ou em outra fase que requeira seu posicionamento. Por exemplo, quando um atendimento bancário foi concluído e aguarda a distribuição ao analista responsável, ou ainda quando um analista conclui a análise e o pedido aguarda ser concluído.</li>
-<li style="text-align: justify;"><strong>Andamento: </strong> Refere-se aos pedidos recebidos na SPAI e que já passaram pela fase de admissibilidade, tendo recebido algum despacho do coordenador. Os casos em andamento poderão ser distribuídos ao analista, em fase de análise e pesquisa, dentre outros. Essas informações podem ser verificadas no histórico do pedido. </li>
-<li style="text-align: justify;"><strong>Encerrado: </strong> Refere-se aos pedidos que foram encerrados pelo próprio membro ou pelo coordenador. Um exemplo de encerramento por parte do membro ocorre quando os autos que motivaram a abertura do pedido foram arquivados. O coordenador pode encerrar um pedido por falta de acessibilidade.  </li>
-<li style="text-align: justify;"><strong>Pendente: </strong> São os pedidos que aguardam um despacho ou manifestação externa a SPAI. Exemplos de pedidos pendentes são aqueles que estão aguardando uma diligência, um pedido de retransmissão, uma solicitação de dilação de prazo, a chegada de uma nova quebra de sigilo etc.  </li>
-<li style="text-align: justify;"><strong>Aguardando transmissão de dados: </strong> São aqueles que estão na fase de recepção e tratamento dos dados que são transmitidos pelas instituições financeiras.  </li>
-<li style="text-align: justify;"><strong>Concluído: </strong>São os pedidos que já passaram por todas as etapas do processo de análise, tendo-os como finalizados.  </li>
-
-</ul>
-
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF">Ações em detalhes do pedido</span>
 
 ![Login](img/AçõesDetalhesDoPedido.png)<br>
@@ -39,11 +27,11 @@ Os possíveis status do pedido são:
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Histórico </span>
 
-<p style="text-align: justify;">Permite que os demandantes e os integrantes da SPAI acompanhem todas as alterações ocorridas no pedido e nos serviços requeridos, realizadas pelos membros ou por servidores da própria SPAI. Além disso, possibilita ao membro a inclusão de informações a qualquer tempo que julgue importante para o andamento do pedido e dos serviços requisitados. Ao cadastrar um novo histórico, por serviço requerido, a área responsável da SPAI será automaticamente notificada por e-mail sobre a inclusão de um novo registro de histórico. No entanto, nos casos em que já houve a conclusão ou o encerramento do pedido, o pedido deverá ser previamente reaberto. </p><br>
+<p style="text-align: justify;">Permite que os demandantes e os integrantes da SPAI acompanhem todas as alterações ocorridas no pedido e nos serviços requeridos, realizadas pelos membros ou por servidores da própria SPAI. Além disso, possibilita ao membro a inclusão de informações a qualquer tempo que julgue importante para o andamento do pedido e dos serviços requisitados. Ao cadastrar um novo histórico, por serviço requerido, a área responsável da SPAI será automaticamente notificada por e-mail sobre a inclusão de um novo registro de histórico. No entanto, nos casos em que já houve a conclusão ou o encerramento do pedido, o pedido deverá ser previamente reaberto. </p>
 
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Investigados </span>
-<p style="text-align: justify;">Permite visualizar, editar e excluir os investigados cadastrados no pedido e possibilita o cadastramento de novos investigados, tanto de “pessoa física” quanto de “pessoa jurídica”. </p><br>
+<p style="text-align: justify;">Permite visualizar, editar e excluir os investigados cadastrados no pedido e possibilita o cadastramento de novos investigados, tanto de “pessoa física” quanto de “pessoa jurídica”. </p>
 
 #### <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Anexos </span>
 <p style="text-align: justify;">Permite anexar arquivos no sistema. Funciona de maneira similar ao recurso “Anexar Arquivo’ da maioria das ferramentas de e-mail. O sistema suporta anexos de arquivos de até 25MB. </p>
