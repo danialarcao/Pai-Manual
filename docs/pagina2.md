@@ -1,6 +1,6 @@
 # Criando novo pedido 
 
-<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">1</span> Clique sobre o botão <strong>"Novo pedido"</strong> localizado no menu lateral esquerdo.</p>
+<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">1</span> Clique sobre o botão <strong>"Novo pedido", </strong> localizado no menu lateral esquerdo.</p>
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">2</span> Em seguida, será aberta a página contendo um formulário de preenchimento, intitulado “Cadastro do Pedido” (Figura 5).</p>
 
 ![Login](img/FormularioNovoPedido.png)
@@ -19,7 +19,7 @@
 *Figura 7 - Descrição dos fatos*. <br><br>
 
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Campo "Necessidades"</span>
-<p style="text-align: justify;">O preenchimento deste campo, juntamente com o serviço pretendido, permite a SPAI delimitar o escopo do trabalho dos analistas. <br><br> É neste campo que o membro deverá descrever da forma mais objetiva possível o que se espera da análise solicitada, indicando os quesitos que se pretende responder para a sustentação da tese de forma a otimizar a alocação dos recursos humanos da SPAI para o atendimento das necessidades descritas e o atingimento do objetivo pretendido de forma mais eficiente e célere.</p>
+<p style="text-align: justify;">O preenchimento deste campo, com o serviço pretendido, permite a SPAI delimitar o escopo do trabalho dos analistas. <br><br> É neste campo que o membro deverá descrever da forma mais objetiva possível o que se espera da análise solicitada, indicando os quesitos que se pretende responder para a sustentação da tese de forma a otimizar a alocação dos recursos humanos da SPAI para o atendimento das necessidades descritas e o atingimento do objetivo pretendido de modo mais eficiente e célere.</p>
 
 ![Login](img/Necessidades.png)
 *Figura 8 - Necessidades*. <br><br>
@@ -31,7 +31,7 @@
 *Figura 9 - Selecionar Assuntos e Serviços*. <br><br>
 
 <p class="atencao" style="text-align: justify; border: 4px solid yellow; padding: 20px;"> Escolha o serviço de acordo com o assunto e as necessidades apontadas no campo específico “necessidades”. <br><br>
-Na formulação de um novo pedido, além do campo necessidades, há uma lista de assuntos e outra de serviços. Essa segregação é importante, pois os pedidos recebidos na SPAI passam por uma triagem eletrônica, feita pelo próprio sistema, que coloca cada pedido em filas diferentes de acordo com critérios bem definidos (serviço escolhido, assunto, grau de complexidade, etc). <br><br> Dessa forma, é de suma importância que o serviço, o assunto e as necessidades, estejam em sintonia, para que o atendimento dos pedidos seja otimizado. Some-se a isso, o fato de que a combinação correta desses três itens permite delimitar e orientar a análise, auxiliando na definição do escopo do trabalho dos analistas.  </p><br>
+Na formulação de um novo pedido, além do campo necessidades, há uma lista de assuntos e outra de serviços. Essa segregação é importante, pois os pedidos recebidos na SPAI passam por uma triagem eletrônica, feita pelo próprio sistema, que coloca cada pedido em filas diferentes de acordo com critérios bem definidos (serviço escolhido, assunto, grau de complexidade, etc). <br><br> Dessa forma, é de suma importância que o serviço, o assunto e as necessidades estejam em sintonia, para que o atendimento dos pedidos seja otimizado. Some-se a isso, o fato de que a combinação correta desses três itens permite delimitar e orientar a análise, auxiliando na definição do escopo do trabalho dos analistas.  </p><br>
 
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">4</span> Na página seguinte, será disponibilizado um formulário para preenchimento das informações conhecidas pelo demandante acerca dos investigados do pedido, conforme figura a seguir (Figura 10):  </p>
 
@@ -62,7 +62,7 @@ Na formulação de um novo pedido, além do campo necessidades, há uma lista de
     - Causa ruídos de comunicação entre a SPAI, o Judiciário, o BACEN e as instituições financeiras;  <br>
     - Possibilita que as instituições financeiras aleguem o não recebimento de nenhuma determinação do Banco Central para transmitir eventuais dados pendentes. <br><br>
 
-Caso ocorra o envio do PQS ao Judiciário com um número de caso incorreto, assim que detectado o equívoco, será necessária a reiteração do pedido à autoridade judiciária. O Membro deverá refazer o pedido, gerar nova minuta (com novo número) e reiterar o pedido ao Juiz, sendo que esse trâmite poderá causar uma excessiva demora até a análise do caso. <br><br>
+Caso ocorra o envio do PQS ao Judiciário com um número de caso incorreto, assim que detectado o equívoco, será necessária a reiteração do pedido à autoridade judiciária. O membro deverá refazer o pedido, gerar nova minuta (com novo número) e reiterar o pedido ao Juiz, sendo que esse trâmite poderá causar uma excessiva demora até a análise do caso. <br><br>
 
 Por fim, sugerimos que a minuta seja utilizada como anexo do PQS! 
 </p><br>
@@ -75,7 +75,7 @@ Por fim, sugerimos que a minuta seja utilizada como anexo do PQS!
  Assim, <strong>caso o usuário tenha cadastrado um pedido selecionando o serviço “Afastamento de sigilo telefônico - SITTEL” </strong>, será redirecionado para a tela de formulário de “cadastro do SITTEL”. Nela, é necessário informar qual o tipo de solicitação desejada, "Judicial" ou "Requisição direta (Extrajudicial)" (Figura 13).</p>
 
  <ul>
-    <li style="text-align: justify;"><strong>Pedido judicial:</strong> Pedido que depende da descisão judicial ser deferida pelo juíz. As respostas poderão conter as seguintes informações, dependendo do tipo de alvo solicitado: dados cadastrais, históricos de chamadas, histórico de chamadas (com dados de interlocutores), histórico de IMEI e histórico de conexões. Os tipos de alvos solicitados poderão ser: CPF/CNPJ, outro documento do assinante, terminal, IMEI. </li>
+    <li style="text-align: justify;"><strong>Pedido judicial:</strong> Pedido que depende da decisão judicial ser proferida pelo juíz. As respostas poderão conter as seguintes informações, dependendo do tipo de alvo solicitado: dados cadastrais, históricos de chamadas, histórico de chamadas (com dados de interlocutores), histórico de IMEI e histórico de conexões. Os tipos de alvos solicitados poderão ser: CPF/CNPJ, outro documento do assinante, terminal, IMEI. </li>
     <li style="text-align: justify;"><strong> Pedido extrajudicial: </strong> Pedido em que o próprio demandante solicita e assina a requisição. Terá como resposta os dados cadastrais e os alvos solicitados poderão ser do tipo: CPF/CNPJ, outro documento do assinante, terminal, IMEI. </li><br>
  </ul>
 
@@ -84,7 +84,7 @@ Por fim, sugerimos que a minuta seja utilizada como anexo do PQS!
 
 <p style="text-align: justify;">Ao clicar em cadastrar alvo, uma modal (janela na página) será aberta (Figura 14) e o usuário poderá escolher qual quebra de sigilo deseja: CPF/CNPJ, Terminal, “Outros tipos de documentos” (passaporte, RNE...), IMEI (Identificação Internacional de Equipamento Móvel) e IP/Porta. <br><br>
 
-Além disso, também é possível requerer informações adicionais de interlocutores (pessoas que tiveram interações telefônicas com o investigado), dados de ERB (informações relacionadas a uma Estação Rádio Base, possibilitando saber a qual torre telefônica o investigado estava conectado) e de histórico de conexões. <br><br>
+Além disso, também é possível requerer informações adicionais de interlocutores (pessoas que tiveram interações telefônicas com o investigado), dados de ERB (informações relacionadas a uma Estação Rádio Base, possibilitando saber à qual torre telefônica o investigado estava conectado) e de histórico de conexões. <br><br>
 
 Uma exigência do sistema para pedidos com o serviço de afastamento de sigilo é o <strong> download da minuta </strong>, passo este que é obrigatório para o prosseguimento do processo de cadastro por meio do botão “Baixar minuta” (Figura 15). </p>
 
@@ -101,7 +101,7 @@ Uma exigência do sistema para pedidos com o serviço de afastamento de sigilo �
 
 ## <span style="background-color: #4682B4; border-radius: 5px; padding: 6px; color: #FFFFFF "> Pedido pronto</span>
 
-<p style="text-align: justify;">Pedidos feitos por meio do PAI são categorizados pelo próprio sistema, não havendo ingerência humana nesse processo. Essa categorização é feita de acordo com regras pré-determinadas e baseiam-se nos serviços que foram escolhidos pelo membro, gerando filas de pedidos que são rigorosamente obedecidas. <br><br>
+<p style="text-align: justify;">Pedidos feitos por meio do PAI são categorizados pelo próprio sistema, não havendo ingerência humana nesse processo. Essa categorização é feita de acordo com regras predeterminadas e baseiam-se nos serviços que foram escolhidos pelo membro, gerando filas de pedidos que são rigorosamente obedecidas. <br><br>
 
 Além das filas de pedidos, a disponibilidade de analista, a complexidade do(s) serviço(s) solicitado(s) e a complexidade do caso impossibilitam o estabelecimento de uma data precisa sobre o término da análise do pedido. <br><br>
 
